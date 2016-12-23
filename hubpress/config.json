@@ -4,7 +4,13 @@
     "repositoryName": "scriptindex.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "New Letters",
+    "description": "The everyday life of a creative person",
+    "postsPerPage": "10"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
