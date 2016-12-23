@@ -17,4 +17,4 @@ One that you will never know.
 
 -scriptindex, 23/12/16 Sat
 
-:hp-image:/images/covers/coffee-1159011_1920.jpg
+:hp-image: /images/covers/coffee-1159011_1920.jpg
