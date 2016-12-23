@@ -8,6 +8,7 @@
   "site": {
     "title": "New Letters",
     "description": "The everyday life of a creative person",
+    "cover": "https://pixabay.com/get/e833b00e28f0053ed1534705fb0938c9bd22ffd41db913459df3c87ea1/lake-1611044_1920.jpg",
     "postsPerPage": "10"
   },
   "socialnetwork": {
