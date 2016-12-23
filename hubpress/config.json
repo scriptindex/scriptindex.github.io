@@ -9,7 +9,9 @@
     "description": "The everyday life of a creative person",
     "postsPerPage": "10"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "github": "https://github.com/scriptindex"
+  },
   "theme": {
     "name": "casper"
   }
