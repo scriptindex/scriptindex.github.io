@@ -1,0 +1,20 @@
+= A Little Poem
+:hp-tags: poetry
+
+Here is something I cooked up. +
+A short snippet that you can read.
+
+*'It's there'*
+
+In that distance only you can see, +
+across the oceans and foreign trees, +
+a hidden shelter lies in wait. +
+
+Hollow yet welcoming, +
+the horizon draws ever near. +
+
+One that you will never know.
+
+-scriptindex, 23/12/16 Sat
+
+:hp-image: /images/covers/coffee-1159011_1920.jpg
