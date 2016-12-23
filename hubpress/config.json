@@ -13,7 +13,8 @@
     "postsPerPage": "10"
   },
   "socialnetwork": {
-    "github": "https://github.com/scriptindex"
+    "email": "inserthere@inserthere.com",
+    "github": ""
   },
   "theme": {
     "name": "casper"
