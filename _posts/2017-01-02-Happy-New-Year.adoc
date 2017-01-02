@@ -1,4 +1,5 @@
 = Happy New Year!
+:hp-tags: holidays
 
 Here is a self explanatory post to remind +
 you that it is finally twenty-seventeen!
