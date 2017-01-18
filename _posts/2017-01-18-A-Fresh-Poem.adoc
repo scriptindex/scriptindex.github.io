@@ -1,4 +1,4 @@
-= A Tiny Poem
+= A Fresh Poem
 :hp-tags: poetry
 
 A fine bite of goodness!
