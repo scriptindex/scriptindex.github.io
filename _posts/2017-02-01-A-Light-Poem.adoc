@@ -1,15 +1,32 @@
 = A Light Poem
 :hp-tags: poetry
 
-
+Here are some words that +
+you might enjoy reading.
 
 *'Soft Ocean'*
 
-G +
+soaring higher +
+clinging closer +
 
-F +
+when the sky +
+hits the ground +
+there's a very big +
+CRASH
 
+searching for help +
+drifting to shore +
+looking for life +
+in the new world +
 
+whenever I see +
+the others like me +
+there's no need +
+to stop them. +
 
+A few years later +
+they'll know the truth +
+but who will be there +
+to stop them?
 
 _-scriptindex, 01/02/17 Wed_
