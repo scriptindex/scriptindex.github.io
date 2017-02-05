@@ -1,7 +1,7 @@
-= First post
+= Insert Title Here
 :hp-tags: key
 
-Here is the first post. I hope you enjoy it!
+Hey guys. Just giving you an +
+update on what's to come:
 
-
-
+!
