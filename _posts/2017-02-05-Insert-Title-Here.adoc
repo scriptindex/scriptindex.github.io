@@ -1,7 +1,0 @@
-= Insert Title Here
-:hp-tags: key
-
-Hey guys. Just giving you an +
-update on what's to come:
-
-!
