@@ -1,8 +1,7 @@
 = Is It Me?
 :hp-tags: poetry
 
-TIP: A few lines of poetry +
-that you might enjoy.
+NOTE: A few lines of poetry that you might enjoy.
 
 ___
 
