@@ -1,10 +1,10 @@
-= A Lovely Poem
+= Red Wish
 :hp-tags: poetry
 
 A thoughtful piece +
 on Valentine's Day!
 
-*'Red Wish'*
+---
 
 To be the only one +
 with the stars on my skies +
