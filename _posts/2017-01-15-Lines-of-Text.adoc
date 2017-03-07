@@ -1,9 +1,9 @@
-= A Tiny Poem
+= 'Lines of Text'
 :hp-tags: poetry
 
 Some _huge_ poetry for all of you!
 
-*'Lines of Text'*
+---
 
 They call it +
 creativity +
