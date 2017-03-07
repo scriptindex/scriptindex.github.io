@@ -1,10 +1,10 @@
-= A Little Poem
+= It's There
 :hp-tags: poetry
 
 Here is something I cooked up. +
 A short snippet that you can read.
 
-*'It's there'*
+___
 
 In that distance only you can see, +
 across the oceans and foreign trees, +
