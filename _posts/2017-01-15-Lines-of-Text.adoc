@@ -1,4 +1,4 @@
-= 'Lines of Text'
+= Lines of Text
 :hp-tags: poetry
 
 Some _huge_ poetry for all of you!
