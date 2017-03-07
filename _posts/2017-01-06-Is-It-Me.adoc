@@ -1,10 +1,10 @@
 = Is It Me?
 :hp-tags: poetry
 
-A few lines of poetry +
-that you might enjoy.
+ A few lines of poetry
+ that you might enjoy.
 
-'''
+___
 
 the little grey rock +
 was thrown in the sea +
