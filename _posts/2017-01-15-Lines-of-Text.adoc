@@ -1,7 +1,7 @@
 = Lines of Text
 :hp-tags: poetry
 
-Some _huge_ poetry for all of you!
+Some huge poetry for all of you!
 
 ---
 
@@ -26,4 +26,4 @@ but tomorrow is +
 always forever +
 young
 
-_-scriptindex, 15/01/17 Sun_
+_-scriptindex, 15/01/17 sun_
