@@ -2,7 +2,7 @@
 :hp-tags: poetry
 
 When you feel the need +
-to move ahead in style! +
+to move ahead in style!
 
 ---
 
