@@ -1,9 +1,10 @@
 = A Most General Day
 :hp-tags: prose
 
-Mixing things up with some longer pieces. +
+Mixing things up with some +
+longer pieces every now and then. +
 
-*'Talk of Fresh'*
+*'Talk of Time'*
 
 Next time, things will be different. Wherever I look, there is change. +
 
@@ -11,9 +12,11 @@ Last week, there was something new in our little town. At first, I didn't know m
 
 Perhaps it's just me. Always thinking too much.
 
-Last week, the whispers of townspeople reached my ears. Not once did they stop - a curious sight. I'd had enough of these trivial pursuits and knew that truth was close at hand. +
+Last week, the whispers reached my ears. Not once did they stop - a curious sight. I'd had enough of these trivial pursuits and knew that truth was close at hand. +
 
+Same old days. No more surprises.
 
+I saw them today on the side of the road. Not much to say, but they looked happy. The chatter stopped eventually, but I knew what I saw.  And that was real, not some story about .
 
 
 _-scriptindex, 02/03/17 Wed_
