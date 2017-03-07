@@ -2,7 +2,7 @@
 :hp-tags: poetry
 
 Tuesday is when the +
-week really begins! +
+week really begins!
 
 ---
 
