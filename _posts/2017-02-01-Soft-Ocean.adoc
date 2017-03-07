@@ -1,10 +1,10 @@
-= A Light Poem
+= Soft Ocean
 :hp-tags: poetry
 
 Here are some words that +
 you might enjoy reading.
 
-*'Soft Ocean'*
+---
 
 soaring higher +
 clinging closer +
