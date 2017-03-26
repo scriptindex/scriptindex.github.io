@@ -1,4 +1,4 @@
-= Today's Poem!
+= Blue
 :hp-tags: poetry
 
 When you get back into +
@@ -6,10 +6,8 @@ the groove of things.
 
 ---
 
-In the silent
-
 on the narrow path +
-that we walk on
+that we walk on +
 
 You steal my glance +
 as we walk past +
@@ -22,13 +20,11 @@ by another's presence +
 
 On my way downstairs +
 you seemingly depart +
+with your long +
+black leggings, +
+long black hair +
 
-walking away +
-black leggings +
-facing away +
-black hair +
-
-Perhaps one day +
+perhaps one day +
 I'll see you again +
 and things will be +
 the same
