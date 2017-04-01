@@ -1,20 +1,11 @@
-= Prose #2
-:hp-tags: prose
+= A Nice Pillow
+:hp-tags: poem
 
-Staying with friends and family +
-can result in many experiences.
+A bunch of expressive words! +
 
 ---
 
-It was a rough couch. There were some 
 
 
-
-This cycle of emotions has a sizeable strain
-
-
-And I had an idea, a rough thought in my head. Things are alright, for now.
-
-
+publish date:
 _-scriptindex, 13/03/17 mon_ +
-#most likely publish this in April
