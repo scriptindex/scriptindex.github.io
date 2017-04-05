@@ -1,7 +1,6 @@
 = Test #1
 :hp-tags: poetry
-:hp-image: /covers/
-:published_at: 06-04-2017
+:hp-image: /images/extra/1-1274349109Jjby.jpg
 
 new intro here
 
