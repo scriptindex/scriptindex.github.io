@@ -1,0 +1,12 @@
+= Test #1
+:hp-tags: poetry
+:hp-image: /covers/
+:published_at: 06-04-2017
+
+new intro here
+
+---
+
+insert new poem here
+
+_-scriptindex, 06/04/17 thu_
