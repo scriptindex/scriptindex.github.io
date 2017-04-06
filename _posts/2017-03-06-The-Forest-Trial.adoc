@@ -1,5 +1,6 @@
 = The Forest Trial
 :hp-tags: poetry
+:published-at: 2017-03-06
 
 There are some things +
 very dear to all of us.
