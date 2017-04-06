@@ -1,5 +1,6 @@
 = Blue Charm
 :hp-tags: poetry
+:published-at: 2017-03-26
 
 When you get back into +
 the groove of things.
@@ -28,5 +29,5 @@ perhaps one day +
 I'll see you again +
 and things will be +
 the same
-
+-
 _-scriptindex, 26/03/17 sun_
