@@ -15,8 +15,7 @@ Disciple and master +
 mother and child +
 
 Perhaps down the line +
--connection re-established- +
-
+.... ... ..... .. +
 t h i n g s w i l l b e o k a y
 
 _-scriptindex, 14/04/17 fri_
