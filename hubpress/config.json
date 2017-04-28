@@ -3,7 +3,8 @@
     "username": "scriptindex",
     "repositoryName": "scriptindex.github.io",
     "branch": "master",
-    "delay": "2000"
+    "delay": "2000",
+    "cname": ""
   },
   "site": {
     "title": "New Letters",
@@ -11,11 +12,21 @@
     "logo": "",
     "cover": "/images/covers/lake-1611044_1920.jpg",
     "postsPerPage": "10",
-    "disqus": "insertpoetrybloghere"
+    "disqus": "insertpoetrybloghere",
+    "delay": "2000",
+    "googleAnalytics": ""
   },
   "socialnetwork": {
     "email": "indexscript@rbox.co",
-    "github": ""
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "scriptindex",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   },
   "theme": {
     "name": "casper"
