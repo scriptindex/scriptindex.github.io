@@ -4,7 +4,8 @@
 
 Hello everyone! scriptindex here with some recent updates. +
 
-I have now integrated Disqus into the site so you can finally comment! +
+I have now integrated https://disqus.com[Disqus] 
+into the site so you can finally comment! +
 Your Facebook, Twitter and Google accounts will also work. +
 If it's easier, 'I'd rather post as a guest' is there. +
 
