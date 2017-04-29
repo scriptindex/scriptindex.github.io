@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[New Letters]]></title><description><![CDATA[The everyday life of a creative person]]></description><link>https://scriptindex.github.io</link><image><url>/images/covers/lake-1611044_1920.jpg</url><title>New Letters</title><link>https://scriptindex.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 29 Apr 2017 02:10:30 GMT</lastBuildDate><atom:link href="https://scriptindex.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Quick update]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[New Letters]]></title><description><![CDATA[The everyday life of a creative person]]></description><link>https://scriptindex.github.io</link><image><url>/images/covers/lake-1611044_1920.jpg</url><title>New Letters</title><link>https://scriptindex.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 29 Apr 2017 02:16:33 GMT</lastBuildDate><atom:link href="https://scriptindex.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Quick update]]></title><description><![CDATA[<div class="paragraph">
 <p>Hello again! scriptindex back with a new update.<br></p>
 </div>
 <div class="paragraph">
@@ -92,7 +92,8 @@ remains unread.</p>
 <p>Hello everyone! scriptindex here with some recent updates.<br></p>
 </div>
 <div class="paragraph">
-<p>I have now integrated Disqus into the site so you can finally comment!<br>
+<p>I have now integrated <a href="https://disqus.com">Disqus</a>
+into the site so you can finally comment!<br>
 Your Facebook, Twitter and Google accounts will also work.<br>
 If it&#8217;s easier, 'I&#8217;d rather post as a guest' is there.<br></p>
 </div>
