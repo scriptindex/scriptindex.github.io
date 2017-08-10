@@ -1,0 +1,23 @@
+= FWFW
+:hp-tags: poetry
+:published-at: 2017-08-10
+
+Return the date.
+
+---
+
+there is a gigantic +
+splodge on the wall. +
+
+invisible etches reveal +
+physical imprints that +
+bare its monotone forme +
+
+it will disintegrate +
+perhaps, eventually +
+
+or continue to +
+linger, slowly +
+enveloping the wall
+
+_-scriptindex, 10/08/17 thu_
