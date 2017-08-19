@@ -1,4 +1,4 @@
-= 未来
+= Prepare [未来]
 :hp-tags: poetry
 :published-at: 2017-08-19
 
