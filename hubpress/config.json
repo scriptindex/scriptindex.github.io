@@ -10,7 +10,7 @@
     "title": "New Letters",
     "description": "The everyday life of a creative person",
     "logo": "",
-    "cover": "",
+    "cover": "/images/covers/september-in-the-forest.jpg",
     "postsPerPage": "10",
     "disqus": "insertpoetrybloghere",
     "delay": "2000",
