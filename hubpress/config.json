@@ -11,7 +11,7 @@
     "description": "The everyday life of a creative person",
     "logo": "",
     "cover": "/images/covers/september-in-the-forest.jpg",
-    "postsPerPage": "10",
+    "postsPerPage": "12",
     "disqus": "insertpoetrybloghere",
     "delay": "2000",
     "googleAnalytics": ""
