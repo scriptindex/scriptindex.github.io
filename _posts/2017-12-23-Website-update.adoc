@@ -1,0 +1,21 @@
+= Website update
+:hp-tags: key
+:published-at: 2017-03-30
+
+Hello everyone! scriptindex here with some recent updates. +
+
+I have now integrated https://disqus.com[Disqus] 
+into the site so you can finally comment! +
+Your Facebook, Twitter and Google accounts will also work. +
+If it's easier, 'I'd rather post as a guest' is there. +
+
+Some other options I've changed: +
+
+- Enabled 'Guest Commenting'
+- Deactivated advertisements
+- Disabled 'Tracking' and 'Affiliate Links'
+
+Hope you enjoy this site. Let's keep the comments constructive +
+so I can work off them to advise and influence my future writing. +
+
+Have a nice day!
