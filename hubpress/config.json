@@ -11,7 +11,7 @@
     "description": "The everyday life of a creative person",
     "logo": "",
     "cover": "/images/covers/trees-in-the-snow.jpg",
-    "postsPerPage": "12",
+    "postsPerPage": "10",
     "disqus": "insertpoetrybloghere",
     "delay": "2000",
     "googleAnalytics": ""
