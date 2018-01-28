@@ -29,12 +29,12 @@
     "stackoverflow": ""
   },
   "theme": {
-    "name": "ghostium"
+    "name": "ichi"
   },
   "urls": {
     "site": "https://scriptindex.github.io",
     "hubpress": "https://scriptindex.github.io",
-    "theme": "//scriptindex.github.io/themes/roon",
+    "theme": "//scriptindex.github.io/themes/ghostium",
     "images": "https://scriptindex.github.io/images"
   },
   "initialisationConfigComponent": {
