@@ -10,7 +10,7 @@
     "title": "New Letters",
     "description": "The everyday life of a creative person",
     "logo": "",
-    "cover": "/images/covers/trees-in-the-snow.jpg",
+    "cover": "/images/covers/roll-on-the-river.jpg",
     "postsPerPage": "10",
     "disqus": "insertpoetrybloghere",
     "delay": "2000",
@@ -29,7 +29,7 @@
     "stackoverflow": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "roon"
   },
   "urls": {
     "site": "https://scriptindex.github.io",
