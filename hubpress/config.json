@@ -32,12 +32,12 @@
     "opencollective": ""
   },
   "theme": {
-    "name": "ichi"
+    "name": "roon"
   },
   "urls": {
     "site": "https://scriptindex.github.io",
     "hubpress": "https://scriptindex.github.io",
-    "theme": "//scriptindex.github.io/themes/casper",
+    "theme": "//scriptindex.github.io/themes/ichi",
     "images": "https://scriptindex.github.io/images"
   },
   "initialisationConfigComponent": {
