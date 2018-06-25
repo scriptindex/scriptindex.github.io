@@ -14,7 +14,8 @@
     "postsPerPage": "10",
     "disqus": "insertpoetrybloghere",
     "delay": "2000",
-    "googleAnalytics": ""
+    "googleAnalytics": "",
+    "blogPath": "index"
   },
   "socialnetwork": {
     "email": "indexscript@rbox.co",
@@ -26,7 +27,9 @@
     "pinterest": "",
     "flickr": "",
     "linkedin": "",
-    "stackoverflow": ""
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
   },
   "theme": {
     "name": "casper"
@@ -50,5 +53,6 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "navigation": []
 }
