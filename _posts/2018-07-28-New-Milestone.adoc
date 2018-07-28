@@ -2,12 +2,18 @@
 :hp-tags: key
 :published-at: 2018-07-24
 
-Hello everyone. +
+Hello everyone. scriptindex here. +
 
-Just letting you know that we have just reached +
-over 50 poetry pieces on this poetry blog! +
+Just letting you know that we have reached +
+over 50 poetry posts on this poetry blog! +
 
-Click the 'Poetry' tag to view them all. +
+-> Click the https://scriptindex.github.io/tag/poetry['Poetry'] tag to view them all. +
 
 The 'Prose' tag is pretty empty though... +
 perhaps it's time to write some more?
+
+You can find me on https://www.instagram.com/scriptindex[Instagram] and also https://twitter.com/scriptindex2/[Twitter]. +
+The links to https://scriptindex.github.io[New Letters] are there so +
+you'll never forget about it. +
+
+See you around!
