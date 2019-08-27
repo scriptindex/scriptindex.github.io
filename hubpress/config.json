@@ -32,12 +32,12 @@
     "opencollective": ""
   },
   "theme": {
-    "name": "saga"
+    "name": "the-shell"
   },
   "urls": {
     "site": "https://scriptindex.github.io",
     "hubpress": "https://scriptindex.github.io",
-    "theme": "//scriptindex.github.io/themes/roon",
+    "theme": "//scriptindex.github.io/themes/saga",
     "images": "https://scriptindex.github.io/images"
   },
   "initialisationConfigComponent": {
