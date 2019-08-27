@@ -1,8 +1,8 @@
 = promise
 :hp-tags: poetry
-:published-at: 2019-08-27
+:published-at: 2019-08-28
 
-~Liberi Fatali.
+https://www.youtube.com/watch?v=Nyuq2M5NjpQ[~Liberi Fatali.]
 
 ---
 
@@ -33,4 +33,4 @@ You will. +
 
 I promise.
 
-_-scriptindex, 27/08/19 tue_ 
+_-scriptindex, 28/08/19 tue_ 
