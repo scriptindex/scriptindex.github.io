@@ -37,7 +37,7 @@
   "urls": {
     "site": "https://scriptindex.github.io",
     "hubpress": "https://scriptindex.github.io",
-    "theme": "//scriptindex.github.io/themes/uno",
+    "theme": "//scriptindex.github.io/themes/casper",
     "images": "https://scriptindex.github.io/images"
   },
   "initialisationConfigComponent": {
