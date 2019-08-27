@@ -1,6 +1,6 @@
 = promise
 :hp-tags: poetry
-:published-at: 2019-08-28
+:published-at: 2019-08-27
 
 https://www.youtube.com/watch?v=Nyuq2M5NjpQ[~Liberi Fatali.]
 
@@ -15,11 +15,11 @@ I'll be waiting here... +
 > for... +
 
 I'll be waiting here +
-for you, so...
+for you, so... +
 
-If you come...
+If you come... +
 
-> here...
+> here... +
 
 If you come here... +
 
@@ -33,4 +33,4 @@ You will. +
 
 I promise.
 
-_-scriptindex, 28/08/19 tue_ 
+_-scriptindex, 27/08/19 tue_ 
