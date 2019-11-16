@@ -1,6 +1,6 @@
 = red paint
 :hp-tags: poetry
-:published-at: 2019-11-16
+:published-at: 2019-11-15
 
 I will see you someday.
 
@@ -156,4 +156,4 @@ see you +
 
 again +
 
-_-scriptindex, 16/11/19 sat_
+_-scriptindex, 15/11/19 fri_
